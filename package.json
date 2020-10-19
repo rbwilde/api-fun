@@ -1,0 +1,26 @@
+{
+  "name": "api-fun",
+  "version": "1.0.0",
+  "description": "Quick RESTful API with Express and Node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbwilde/api-fun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbwilde/api-fun/issues"
+  },
+  "homepage": "https://github.com/rbwilde/api-fun#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.5",
+    "uuid": "^8.3.1"
+  }
+}
